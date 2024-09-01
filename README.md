@@ -1,8 +1,13 @@
 # codtech_task1
-Name    : KOURI RUCHITHA 
+
+Name    : KOURI RUCHITHA
+
 Company : CODTECH IT SOLUTIONS
+
 Id      : CT04DS7457
+
 Domain  : VLSI
+
 Duration: August to September 2024
 
 Over view of the project
