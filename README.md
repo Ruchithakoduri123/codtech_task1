@@ -1,6 +1,6 @@
 # codtech_task1
 
-Name    : KOURI RUCHITHA
+Name    : KODURI RUCHITHA
 
 Company : CODTECH IT SOLUTIONS
 
