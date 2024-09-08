@@ -8,7 +8,9 @@ Id      : CT04DS7457
 
 Domain  : VLSI
 
-Duration: August to September 2024
+Duration : August to September 2024
+
+Mentor name : Muzammil Ahmed
 
 Over view of the project
 
